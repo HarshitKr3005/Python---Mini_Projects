@@ -6,4 +6,5 @@ Each project is self-contained and provides a simple implementation of a specifi
 Table of Contents
 • Project 1: Slot Machine
 • Project 2: Quiz Game
+• Project 3: Number Guessing Game 
 
