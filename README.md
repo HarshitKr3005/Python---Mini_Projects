@@ -8,4 +8,6 @@ Table of Contents
 • Project 2: Quiz Game
 • Project 3: Number Guessing Game 
 • Project 4: Rock, Scissors, Paper
+• Project 5: Choose Your Own Adventure
+
 
